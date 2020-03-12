@@ -4,9 +4,9 @@
 需要库：requests库
 
 ## 使用方法
-./main.py -u <url> -m <method>
+./main.py -u (url) -m (method)
 
-./main.py --url <url> --method <method>
+./main.py --url (url) --method (method)
 
 eg:./main.py -u http://localhost/dvwa/vulnerabilities/sqli/ -m POST
 
